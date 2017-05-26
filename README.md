@@ -1,5 +1,5 @@
 # Project Documents:
-following are the project documents created using jsdoc for my projects.
+following are the project documents created using jsdoc.
 
 - Food Truck Codebase : [Git Repo](https://github.com/ambedeepak99/fud-truck)
   - Food Truck API (node.js) : [Document Link](https://ambedeepak99.github.io/project-documents/fud-truck-node-server-doc)
